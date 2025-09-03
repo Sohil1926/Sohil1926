@@ -11,13 +11,6 @@ Software engineer with experience building scalable web applications and data pr
 - **SIRRL (UWaterloo)** - Created React interface for HCI research applications
 - **KuzuDB** - Contributed to open-source graph database migration tools
 
-## Tech Stack
-**Languages:** JavaScript, TypeScript, Python, C++, SQL  
-**Frontend:** React, Next.js, Angular  
-**Backend:** Node.js, Express.js, FastAPI, Flask  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**Tools:** Git, Docker, AWS
-
 ## Contact
 - Email: sohilathare1@gmail.com
 - LinkedIn: [linkedin.com/in/sohil-athare](https://linkedin.com/in/sohil-athare)
